@@ -1,0 +1,13 @@
+[
+ {
+ "run": "21637040-6",
+ "nombre": "Kevin",
+ "apellido": "Apablaza",
+ "direccion": "Inacap",
+ "fono": 987053933,
+ "correo":"kevin.apablaza@inacapmail.cl",
+ "montoCredito": 500000,
+ "deuda":200000,
+ "tipo": 3
+ }
+]
